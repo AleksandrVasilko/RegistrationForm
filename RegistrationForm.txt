@@ -79,3 +79,13 @@ Please fill out this form with the required information
 
 Шаг 14
 Первый fieldset будет содержать поля имени, электронной почты и пароля. Начните с добавления четырех элементов label в первый fieldset.
+
+
+
+Шаг 15
+Добавить следующий текст в элементы label:
+
+Enter Your First Name:
+Enter Your Last Name:
+Enter Your Email:
+Create a New Password:
