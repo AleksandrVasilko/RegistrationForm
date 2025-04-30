@@ -240,3 +240,16 @@ https://www.freecodecamp.org/news/terms-of-service/
 
 Шаг 35
 Помещайте элемент select (с его элементами option) в элемент label с текстом How did you hear about us?. Текст должен быть перед элементом select.
+
+
+
+Шаг 36
+В данный момент выпадающие параметры пусты. Чтобы дать им содержимое, добавьте следующий текст к каждому последующему элементу option:
+
+Пример кода
+
+(select one)
+freeCodeCamp News
+freeCodeCamp YouTube Channel
+freeCodeCamp Forum
+Other
